@@ -14,3 +14,8 @@
 
 #### 1. Download Dataset and bert-baseline.ipynb and locate into same directory
 #### 2. Run!
+
+## History
+1. Tested with BERT
+2. Tested with KoBERT
+3. Testing Various Combination of Features (Current)
